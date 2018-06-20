@@ -1,0 +1,37 @@
+
+c7 ct c7M kx c7Mk ctf ct9 c7M
+
+c7ctc7Mkxc7Mkctfct9c7M
+wrong at 3rd phase c7ctc7Mkxc7Mkctfc7Mct9
+
+2: c7 ct kx
+3: c7M ctf ct9 c7M
+4: c7Mk
+
+1. ctf
+2. c7
+3. c7Mk
+4. c7M
+5. ct
+6. kx
+7. ct9
+8. c7M
+
+				""
+		c				kx
+	t		7			1
+	1		1
+f-------9		M
+1-------1		2
+					k
+					1
+
+
+RadixTreeNodeStatic node_f(str_f);
+RadixTreeNodeStatic node_t(str_t);
+RadixTreeNodeStatic node_M(str_M);
+RadixTreeNodeStatic node_7(str_7);
+RadixTreeNodeStatic node_9(str_9);
+RadixTreeNodeStatic node_k(str_k);
+RadixTreeNodeStatic node_c(str_c);
+RadixTreeNodeStatic node_kx(str_kx);
