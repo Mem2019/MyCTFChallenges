@@ -217,4 +217,5 @@ int main(int argc, char const *argv[])
 	}
 	return 0;
 }
+//8c0d248ea33e6ef17b759fa5d81dda9e  libc-2.23.so
 //g++ -masm=intel -s -O2 -Wall -std=c++11 main.cpp -o candcpp
